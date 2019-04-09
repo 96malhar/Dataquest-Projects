@@ -1,0 +1,3 @@
+1) There are only 8 schools registered as JJ
+2) There are 52 schools registered as SCH_STATUS_MAGNET
+3) Total enrollment for males in JJ is almost 6 time the number of female enrollments 
